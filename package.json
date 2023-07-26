@@ -13,7 +13,7 @@
 		"buttons"
 	],
 	"author": "Natumanya Guy Muriro <muriro.com> (https://www.muriro.com/)",
-	"homepage": "",
+	"homepage": "https://github.com/NatumanyaGuy/svelte-social-btns",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",

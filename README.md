@@ -42,3 +42,9 @@ The SocialMediaButton component accepts the following props:
 
 <Btn url="https://twitter.com/GuyNatumanya" type="filled" size="md" shape="circle" />
 ```
+
+## Next Steps
+[ ] Create Demo Site
+[ ] More Social Websites
+[ ] Add Images to ReadMe
+[ ] Improve Hover and Active Transitions
